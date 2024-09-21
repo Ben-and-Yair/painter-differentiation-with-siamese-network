@@ -51,7 +51,3 @@ Detailed results and evaluation metrics can be found in the report included in t
 - Scikit-learn
 - Matplotlib
 - Kaggle API (for dataset downloading)
-
-You can install the required packages using the following command:
-```bash
-pip install -r requirements.txt
